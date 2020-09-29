@@ -1,0 +1,2 @@
+add_executable(FiniteDiff UniAxialLoad.cpp)
+target_link_libraries(FiniteDiff pz)
